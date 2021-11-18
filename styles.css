@@ -4,7 +4,7 @@
     background-size: cover;
     background-attachment: fixed;
     width: auto;
-    height: 600px;
+    height: 550px;
 }
 
 #road_image{
@@ -14,7 +14,6 @@
 
 #img{
     width: 400px;
-    margin-bottom: 15px;
 }
 
 #btn{
